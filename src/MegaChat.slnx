@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Fronts/">
+    <Project Path="Fronts/MegaChat.Desktop/MegaChat.Desktop.csproj" Id="cb166ccb-46f3-4672-b345-d8e954b266c4" />
+    <Project Path="Fronts/MegaChat.Mobile/MegaChat.Mobile.csproj" Id="4ecbf0ac-563f-4cc7-b3e4-a59b4be0415c" />
+    <Project Path="Fronts/MegaChat.Web/MegaChat.Web.csproj" Id="ee8ac00a-2f46-4637-9784-73d574c03ee0" />
+  </Folder>
+  <Folder Name="/Tests/" />
+  <Project Path="Core/Core.csproj" Id="47afc3e5-a493-42d5-941f-f0947756dfcd" />
+  <Project Path="DataModels/DataModels.csproj" Id="694f5619-48d6-4f77-8ce8-146cf73fa801" />
+</Solution>
